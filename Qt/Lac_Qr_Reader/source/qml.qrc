@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui_qml/main.qml</file>
+        <file>ui_qml/screens/Camera_screen.qml</file>
+        <file>ui_qml/screens/DecodedInfo_screen.qml</file>
+    </qresource>
+</RCC>
