@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">osp</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="weightDataActivity">Weight Data</string>
+    <string formatted="false" name="weightDataFormFormActivity"></string>
+    <string formatted="false" name="ospMainActivity">osp</string>
+	
+	<!-- Navigation Titles -->
+    <string name="mainmenu_entry0">data</string>
+    <string name="mainmenu_entry1"></string>
+    <string name="mainmenu_entry2">LedControl</string>
+</resources>
+

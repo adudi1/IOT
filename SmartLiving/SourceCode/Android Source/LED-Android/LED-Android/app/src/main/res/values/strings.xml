@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+
+    <string name="app_name">LED</string>
+
+    <!-- Activity Titles -->
+    <string formatted="false" name="ledMainActivity">LED</string>
+	
+	<!-- Navigation Titles -->
+    <string name="mainmenu_entry0">main</string>
+</resources>
+
