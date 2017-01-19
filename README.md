@@ -1,4 +1,7 @@
 # IOT
+Vedio:
+https://drive.google.com/file/d/0ByIh3eDGAiAmR0FUZ3FDLUswWWs/view?usp=sharing
+
 Project:
 1. LED control with Arduino from Andriod app via cloud.
 2. Arduino Intel curie reads data from weight sensor sends cloud using wifi module. Mobile app for user to view the data.
